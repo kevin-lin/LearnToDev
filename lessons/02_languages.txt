@@ -1,0 +1,18 @@
+Just as there are many different spoken languages such as English,
+Mandarin, Spanish, etc., There are many different programming languages.
+In general, each programming language has a different primary use.
+Here are a couple of popular programming languages you might have heard
+of: C, C++, Java, Python, Ruby, Javascript. In this course, I am going
+to focus on teaching Javascript. Note that although the name is similar
+to Java, it is a completely different programming language. Javascript
+is the language of the web. You will be using Javascript to create
+websites. so lets get started.
+
+First you are going to need to download and install a couple of programs.
+Download and install Google Chrome, Sublime Text, and NodeJS. You can
+search for these programs through google.
+
+Sublime Text is the text editor we will be using to write code.
+
+We will be using NodeJS as a Javascript interpreter to run our
+Javascript programs.
