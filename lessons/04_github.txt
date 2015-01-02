@@ -1,0 +1,18 @@
+Here are the steps you need to take in order to push your program
+to github.
+
+1) In the terminal, navigate to your project's directory.
+2) "git status" will show you a list of files that have been changed
+   since the last commit
+3) "git add --all" will stage all files in your project for commit
+4) "git commit -m "write a message here"" will commit the changes you
+   have made to the project
+5) "git push" will push your latest commit to github.
+
+so when you are ready to commit your changes, type the following commands
+into your terminal:
+git status
+git add --all
+git status
+git commit -m "Describe your changes here"
+git push
