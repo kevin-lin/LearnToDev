@@ -1,0 +1,12 @@
+"bash" is the programming language of the terminal.
+To start out, you can think of the terminal as an application
+similar to your file browser. When you launch the terminal,
+the current directory is your home directory. Here are a list
+of basic bash commands you can type into the terminal
+
+ls: lists the contents of the current working directory
+pwd: print working directory. Shows the path of your current directory
+cd <directory name>: change directory to the directory name passed in
+cd ..: go up a directory
+mkdir <directory name>: make a directory in your current working directory
+touch <file name>: make a file in your current working directory

@@ -1,0 +1,6 @@
+0) launch a terminal window
+1) inside of your home directory, create a directory named "Code"
+2) change directories to your "Code" directory
+3) inside of your "Code" directory, create a directory named "HelloWorld"
+4) change directories to your "HelloWorld" directory
+5) inside of your "HelloWorld" directory, create a file named "helloworld.js"
